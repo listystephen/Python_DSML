@@ -32,7 +32,7 @@ Exit:
 Gracefully terminates the program.
 
 
-Code Breakdown
+**Code Breakdown**
 1. BankAccount Class
 Purpose: Represents a user's bank account, managing account details, balance, and transaction history.
 
